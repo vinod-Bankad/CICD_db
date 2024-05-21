@@ -1,0 +1,10 @@
+5/21/2024 7:31:30 AM	This log contains information about the import schema operation into project 'CICD_DB' on computer 'C1AAD-5F8JPX3' by user 'vkbankad'.
+5/21/2024 7:31:30 AM	Deserializing model
+5/21/2024 7:31:30 AM	Resolving model
+5/21/2024 7:31:31 AM	Visiting imported model for types
+5/21/2024 7:31:31 AM	Scanning project for duplicate elements
+5/21/2024 7:31:31 AM	Finished duplicate element processing
+5/21/2024 7:31:31 AM	Processing extra files
+5/21/2024 7:31:31 AM	Finished importing Data-tier Application file.
+5/21/2024 7:31:31 AM	A summary of the import was saved to the following location: C:\Users\vkbankad\source\repos\CICD_Repo\CICD_DB\Import Schema Logs\CICD_DB_20240521020130.log
+5/21/2024 7:31:31 AM	Click Finish to continue...
